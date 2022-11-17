@@ -1,0 +1,18 @@
+{
+  "myFiles": "پرونده های من",
+  "carBodyInsuranceIssue": "صدور بیمه بدنه",
+  "visitCarBody": "بازدید بدنه",
+  "damageDeclaration": "اعلام خسارت",
+  "enterFileId": "شناسه پرونده را وارد نمایید",
+  "fileID": "شناسه پرونده",
+  "customerName": "نام مشتری",
+  "mobilePhoneNumber": "تلفن همراه",
+  "visitPlace": "محل بازدید",
+  "fileStatus": "وضعیت پرونده",
+  "visitTime": "زمان بازدید",
+  "enteringToFilePage": "ورود به صفحه پرونده",
+  "done": "انجام شد",
+  "home": "خانه",
+  "sendDefects": "ارسال نواقص",
+  "mySelf": "خودم"
+}
